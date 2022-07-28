@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rpNvDNA2EkRgka2qrZuCxG6JexCQYNQCqBbTa1fzaI8=",
+  "Source": "WebScraper",
+  "BasePath": "_content/WebScraper",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
