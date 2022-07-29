@@ -1534,23 +1534,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\snipe\\.nuget\\packages\\": {},
-    "D:\\Microsoft\\SDKs\\NuGetPackages": {}
+    "C:\\Users\\WillemBotha\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\snipe\\source\\repos\\GraphQL\\GraphQL\\GraphQL.csproj",
+      "projectUniqueName": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\GraphQL\\GraphQL.csproj",
       "projectName": "GraphQL",
-      "projectPath": "C:\\Users\\snipe\\source\\repos\\GraphQL\\GraphQL\\GraphQL.csproj",
-      "packagesPath": "C:\\Users\\snipe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\snipe\\source\\repos\\GraphQL\\GraphQL\\obj\\",
+      "projectPath": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\GraphQL\\GraphQL.csproj",
+      "packagesPath": "C:\\Users\\WillemBotha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\GraphQL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Microsoft\\SDKs\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\snipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\WillemBotha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1566,8 +1566,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\snipe\\source\\repos\\GraphQL\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\snipe\\source\\repos\\GraphQL\\Application\\Application.csproj"
+            "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Application\\Application.csproj"
             }
           }
         }
@@ -1597,7 +1597,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -1609,7 +1610,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5qKI2yuKuWTRffCYO2A2OcqVKkCtjcbq1eGQpCxFokV5J6l4paWJFo67M5HbWyagA8Y8coVORiR46LhlcTDKQA==",
+  "dgSpecHash": "MLc39aJutt1Cydm+Vb3/latXxem+Fch+xD1N8E/gBocBo37+fUFKs4BfMDCheU63IGQ7qtKewySxc9YKdmGGiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\snipe\\source\\repos\\GraphQL\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

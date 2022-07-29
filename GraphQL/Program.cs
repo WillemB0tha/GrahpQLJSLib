@@ -1,21 +1,18 @@
 using Application.Books.Mutations;
 using Application.Books.Queries;
+using Application.Feeds.Queries;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services
     .AddGraphQLServer()
-    .AddQueryType<BookQuery>()
+    //.AddQueryType<BookQuery>()
+    .AddQueryType<FeedQuery>()
     .AddMutationType<BookMutations>();
 
 var app = builder.Build();
 
-app
-    .UseRouting()
-    .UseEndpoints(endpoints =>
-    {
-        endpoints.MapGraphQL();
-    });
+app.MapGraphQL();
 
 app.Run();
 

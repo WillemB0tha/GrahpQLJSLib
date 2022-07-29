@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\snipe\\source\\repos\\GraphQL\\Application\\Application.csproj": {}
+    "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\snipe\\source\\repos\\GraphQL\\Application\\Application.csproj": {
+    "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\snipe\\source\\repos\\GraphQL\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\snipe\\source\\repos\\GraphQL\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\snipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\snipe\\source\\repos\\GraphQL\\Application\\obj\\",
+        "projectPath": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\WillemBotha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\SDKs\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\snipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WillemBotha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\snipe\\source\\repos\\GraphQL\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\snipe\\source\\repos\\GraphQL\\Domain\\Domain.csproj"
+              "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\snipe\\source\\repos\\GraphQL\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\snipe\\source\\repos\\GraphQL\\Persistence\\Persistence.csproj"
+              "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -57,7 +57,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -66,24 +67,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\snipe\\source\\repos\\GraphQL\\Domain\\Domain.csproj": {
+    "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\snipe\\source\\repos\\GraphQL\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\snipe\\source\\repos\\GraphQL\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\snipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\snipe\\source\\repos\\GraphQL\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\WillemBotha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\SDKs\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\snipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WillemBotha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -116,7 +117,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -125,24 +127,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\snipe\\source\\repos\\GraphQL\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\snipe\\source\\repos\\GraphQL\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\snipe\\source\\repos\\GraphQL\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\snipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\snipe\\source\\repos\\GraphQL\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\WillemBotha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\SDKs\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\snipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WillemBotha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -158,8 +160,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\snipe\\source\\repos\\GraphQL\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\snipe\\source\\repos\\GraphQL\\Domain\\Domain.csproj"
+              "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\WillemBotha\\Documents\\Repos\\GrahpQLJSLib\\Domain\\Domain.csproj"
               }
             }
           }
@@ -179,7 +181,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -188,7 +191,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
         }
       }
     }
